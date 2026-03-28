@@ -1,4 +1,4 @@
-
+{
   "family": "webapp-devops-workshop",
   "taskRoleArn": "arn:aws:iam::042136484532:role/devops-cluster-TaskRole-XPJckyCsOsG6",
   "executionRoleArn": "arn:aws:iam::042136484532:role/ECSTaskExecutionRole",
